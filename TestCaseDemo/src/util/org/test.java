@@ -8,9 +8,9 @@ public class test {
 	WebDriver driver;
 	
 	public void Launchbrowser() {
-		System.setProperty("webdriver.chrome.driver","C:\\Users\\HP\\Downloads\\chromedriver_win32 (3)\\chromedriver.exe" );
-		driver	= new ChromeDriver();
-		driver.get("https://www.javatpoint.com/c-program-to-print-alphabet-triangle");
+		//System.setProperty("webdriver.chrome.driver","C:\\Users\\HP\\Downloads\\chromedriver_win32 (3)\\chromedriver.exe" );
+		//driver	= new ChromeDriver();
+		driver.get("https://www.javatpoint.com/c-program-to-print-alphabet-triangle")
 		
 		
 		////*[@id="signInSubmit"]
